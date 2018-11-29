@@ -25,6 +25,31 @@
     "recursive-readdir": "^2.2.1",
     "vue": "^2.5.3",
     "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1",
+  },
+  "name": "vuebnb",
+  "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+  "version": "1.0.0",
+  "main": "webpack.mix.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsvwd/vuebnb.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "marek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsvwd/vuebnb/issues"
+  },
+  "homepage": "https://github.com/fsvwd/vuebnb#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
   }
 }
